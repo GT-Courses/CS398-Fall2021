@@ -1,2 +1,2 @@
-A list of participants in CS398\n
+A list of participants in CS398:
 Alycia Rose
