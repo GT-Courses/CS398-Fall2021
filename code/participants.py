@@ -10,4 +10,5 @@ def teammembers(myName):
 
 # Function call to add your name
 # Example
-#teammembers("GT") 
+#teammembers("GT")
+teammembers("Kyle Medrow")
