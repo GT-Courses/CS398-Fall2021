@@ -16,3 +16,6 @@ def teammembers(myName):
 # To print for Alycia Rose
 teammembers("Alycia Rose")
 teammembers("Kyle Medrow")
+
+#To print for Michael Gaudio
+teammembers("Michael Gaudio")
